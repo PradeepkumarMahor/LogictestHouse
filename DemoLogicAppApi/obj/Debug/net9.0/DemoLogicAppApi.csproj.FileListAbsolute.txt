@@ -528,3 +528,4 @@ C:\Users\Administrator\Desktop\AzureDevOps\Demos\demologicappapi\obj\Debug\net9.
 C:\Users\Administrator\Desktop\AzureDevOps\Demos\demologicappapi\obj\Debug\net9.0\DemoLogicAppApi.pdb
 C:\Users\Administrator\Desktop\AzureDevOps\Demos\demologicappapi\obj\Debug\net9.0\DemoLogicAppApi.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\AzureDevOps\Demos\demologicappapi\obj\Debug\net9.0\ref\DemoLogicAppApi.dll
+C:\Users\Administrator\Desktop\AzureDevOps\Demos\demologicappapi\obj\Debug\net9.0\DemoLogicAppApi.sourcelink.json
