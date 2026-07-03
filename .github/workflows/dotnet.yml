@@ -19,10 +19,10 @@ jobs:
         dotnet-version: '8.0.x'
 
     - name: Restore
-      run: dotnet restore MyApplication.sln
+      run: dotnet restore YOUR_SOLUTION_NAME.sln    # ← Replace with actual .sln file
 
     - name: Build
-      run: dotnet build MyApplication.sln --no-restore --configuration Release
+      run: dotnet build YOUR_SOLUTION_NAME.sln --no-restore --configuration Release    # ← Replace with actual .sln file
 
     - name: Test
-      run: dotnet test MyApplication.sln --no-build --configuration Release --verbosity normal
+      run: dotnet test YOUR_SOLUTION_NAME.sln --no-build --configuration Release --verbosity normal    # ← Replace with actual .sln file
